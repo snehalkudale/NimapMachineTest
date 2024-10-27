@@ -1,0 +1,5 @@
+package com.nimap.task.entity;
+
+public class Category {
+
+}
